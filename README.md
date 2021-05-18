@@ -8,7 +8,7 @@ I started to learn coding since I watched TV show Silicon Valley. Back then I ha
 
 I started to learn python myself for several months, it was not easy because nothing made sense in the beginning, even the task of writing a for loop to find a smallest number from a sequence took me half day to figure out.
 
-Now I am studying computer science as a mster student. Motivation, perservence and hard working dirve me to go far.
+Now I am studying computer science as a graduate student. Motivation, perservence and hard working dirve me to go far.
 
 
 
