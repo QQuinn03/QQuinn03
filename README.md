@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Alt Text](https://github.com/QQuinn03/QQuinn03/blob/main/image_6483441.JPG)
 
 I've started to learn coding since I watched a TV show, Silicon Valley. At first I had no idea what the characters talked about: Java,Python,algorithm, ect, but I was fascinated about those concepts and wanted to be one of the coders: to wear hoodie with company's logo and code some thing productive. 
 
