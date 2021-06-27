@@ -7,6 +7,11 @@ I started to learn python myself for several months. It was not easy because not
 
 Now I am studying computer science as a graduate student. Motivation,the love for technology, perservence and hard working keep me moving forward.
 
+:email: Find me on:
+<p align="left">
+  <a href="mailto:zoeqin03@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
 Language and tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
