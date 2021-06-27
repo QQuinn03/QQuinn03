@@ -8,6 +8,7 @@ I started to learn python myself for several months. It was not easy because not
 Now I am studying computer science as a graduate student. Motivation,the love for technology, perservence and hard working keep me moving forward.
 
 Language and tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QQuinn03&theme=tokyonight)
 
 
 
