@@ -8,7 +8,11 @@ I started to learn python myself for several months. It was not easy because not
 Now I am studying computer science as a graduate student. Motivation,the love for technology, perservence and hard working keep me moving forward.
 
 Language and tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QQuinn03&theme=tokyonight)
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+</p>  
+  
 
 
 
