@@ -24,8 +24,5 @@ Now I am studying computer science as a graduate student. Motivation, the love f
   
   
   
-  
-  
-  ![](https://api.visitorbadge.io/api/VisitorHit?user=QQuinn03f&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
