@@ -5,7 +5,7 @@ My name is Qiong Qin. I started to learn to code since I watched a TV show, Sili
 
 I started to learn python myself for several months. It was not easy because nothing made sense to me in the beginning, even a task of writing a loop to find the smallest number from a sequence took me a day to figure out.
 
-Now I am studying computer science as a graduate student. Motivation, the love for technology, perseverance, and hard work keeps me moving forward.
+Now I am studying computer science as a graduate student. The love for technology, perseverance, and hard work keep me moving forward.
 
 :email: Find me on:
 <p align="left">
