@@ -1,7 +1,7 @@
 ### Hi there 👋 :smile:
 
 
-My name is Qiong Qin. I started to learn to code after I watched a TV show, Silicon Valley. At first, I had no idea what the characters talked about: Java, Python, algorithm, etc, but I was fascinated by those concepts and wanted to be one of the coders: to wear a hoodie with the company's logo and code something productive.
+My name is Qiong Qin. I started to learn to computer science after I watched a TV show, Silicon Valley. At first, I had no idea what the characters talked about: Java, Python, algorithm, etc, but I was fascinated by those concepts and wanted to be one of the coders: to wear a hoodie with the company's logo and code something productive.
 
 I started to learn python myself for several months. It was not easy because nothing made sense to me in the beginning, even a task of writing a loop to find the smallest number from a sequence took me a day to figure out.
 
