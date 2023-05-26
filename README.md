@@ -6,7 +6,7 @@
   <a href="mailto:zoeqin03@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-:I have a website(since 04/2023 and working on it):
+I have a website(since 04/2023 and working on it):
 <p align ="left>
  www.runwithaiy.com
            </p>
